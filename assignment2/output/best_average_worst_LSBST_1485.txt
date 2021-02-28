@@ -1,0 +1,3 @@
+The best case value for search is 1
+The worst case value for search is 29
+The average case value for search is 14.222222222222221

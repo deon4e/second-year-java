@@ -1,0 +1,9 @@
+KEY: 1_1_00 AREAS : 1
+Insert counter: 32301
+Search counter: 8
+KEY: 4_27_22 AREAS : 14, 6, 10, 2
+Insert counter: 32301
+Search counter: 11
+KEY: 8_10_22 AREAS : 14, 6, 10, 2, 15, 7, 11, 3
+Insert counter: 32301
+Search counter: 12
